@@ -1,5 +1,5 @@
 {
-    "name": "laravel/scout",
+    "name": "xcalder/scout",
     "description": "Laravel Scout provides a driver based solution to searching your Eloquent models.",
     "keywords": ["algolia", "laravel", "search"],
     "license": "MIT",
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.0",
         "illuminate/bus": "^6.0|^7.0|^8.0",
         "illuminate/contracts": "^6.0|^7.0|^8.0",
         "illuminate/database": "^6.0|^7.0|^8.0",
